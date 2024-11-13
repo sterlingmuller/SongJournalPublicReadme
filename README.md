@@ -38,6 +38,7 @@ The Starred version of a Song is displayed on the Home Screen. Pressing on a Son
 <p align="center">
 <img src="assets/SongScreenEmpty.jpg" alt="Song Screen empty" width="300" />
 <img src="assets/SongScreen.jpg" alt="Song Screen" width="300" />
+  <img src="assets/Recording.jpg" alt="Song Screen empty" width="300" />
 <img src="assets/NotesModal.jpg" alt="Song Screen Notes Modal" width="300" />
 </p>
 
@@ -46,5 +47,6 @@ The Starred version of a Song is displayed on the Home Screen. Pressing on a Son
 <p align="center">
 <img src="assets/LyricsScreen.jpg" alt="Lyrics Screen" width="300" />
 <img src="assets/LyricsScreenShare.jpg" alt="Lyrics Screen Share" width="300" />
+  <img src="assets/Chord Generator" alt="Lyrics Screen Share" width="300" />
 <img src="assets/SongInfoModal.jpg" alt="Song Info Modal" width="300" />
 </p>
